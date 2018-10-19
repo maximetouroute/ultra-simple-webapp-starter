@@ -1,0 +1,1 @@
+console.log(`Hello world. This is template literals from ES${6} spec`);
